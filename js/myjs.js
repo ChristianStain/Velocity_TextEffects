@@ -12,7 +12,8 @@ $(document).ready(function() {
     next(0);
     $( "body" ).click(function() {
         counter++;
-        next(counter);
+        if(counter<frase.length)
+          next(counter);
     });
     
     function next(counter){

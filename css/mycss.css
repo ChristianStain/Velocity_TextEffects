@@ -9,7 +9,21 @@ body{
     font-family: 'Poiret One', cursive;
     font-size: 40px;
     position: absolute;
-    top: 50%; 
-    left: 50%;
-    transform: translate(-50%, -50%);
+    top: 40%; 
+    left: 48%;
+    transform: translate(-40%, -48%);
+}
+
+footer{
+    font-family: 'Poiret One', cursive;
+    font-size: 30px;
+    color: #33CD7F;
+    width: 50%;
+    position: fixed;
+    top: 65%; 
+    left: 25%;
+}
+
+a{
+    color:black;
 }
