@@ -3,6 +3,7 @@
 body{
     padding: 0;
     margin: 0;
+    background-color: #AD5784;
 }
 
 #textoCentrado{
@@ -12,12 +13,14 @@ body{
     top: 40%; 
     left: 48%;
     transform: translate(-40%, -48%);
+    color:white;
+    font-weight: bold;
 }
 
 footer{
     font-family: 'Poiret One', cursive;
     font-size: 30px;
-    color: #C13082;
+    color: #D08BAF;
     width: 50%;
     position: fixed;
     top: 65%; 
